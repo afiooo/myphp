@@ -1,7 +1,7 @@
 <?php
 //Rewrite by absentfriend
 $cityId = '5A';
-$playId= $_GET['id'];?? "cctv1HD";
+$playId= $_GET['id'];
 $relativeId = $playId;
 $type='1';
 $appId = "kdds-chongqingdemo";
