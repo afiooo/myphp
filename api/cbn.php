@@ -1,4 +1,5 @@
 <?php
+//Rewrite by absentfriend
 $cityId = '5A';
 $playId= $_GET['id'];
 $relativeId = $playId;
