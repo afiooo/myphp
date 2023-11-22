@@ -1,7 +1,7 @@
 <?php
 //Rewrite by absentfriend
 $cityId = '5A';
-$playId= $_GET['id'];?? 'CQTVNewsHD';
+$playId= $_GET['id'];
 $relativeId = $playId;
 $type='1';
 $appId = "kdds-chongqingdemo";
@@ -31,6 +31,6 @@ $response = curl_exec($curl);
 curl_close($curl);
 $url = (json_decode($response));
 echo $codes = $url->data->result->protocol[0]->transcode[0]->url;
-exit;
 header('location:'.$codes);
+exit;
 ?>
