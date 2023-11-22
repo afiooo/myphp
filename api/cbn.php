@@ -58,4 +58,23 @@ if (isset($responseData->data->result->protocol[0]->transcode[0]->url)) {
 } else {
   die('Unable to retrieve video URL');
 }
+<?php
+$Url = "YOUR_BASE_URL_HERE"; // 请将 YOUR_BASE_URL_HERE 替换为实际的基础 URL
+
+$channelUrls = array(
+    "cctv1" => "$Url?sid=cctv1&s=a48k&Cf.m3u8",
+    "cctv2" => "$Url?sid=cctv2&s=a48k&Cf.m3u8",
+    "cctv3" => "$Url?sid=cctv3&s=a48k&Cf.m3u8",
+    "cctv4" => "$Url?sid=cctv4&s=a48k&Cf.m3u8",
+    "cctv5" => "$Url?sid=cctv5&s=a48k&Cf.m3u8",
+    // ... 其他频道及链接
+    "求索纪录" => "$Url?sid=qsjl&s=a48k_zho&Cf.m3u8"
+);
+
+// 输出频道及链接
+foreach ($channelUrls as $channel => $url) {
+    echo "$channel, $url\n";
+}
+?>
+
 ?>
