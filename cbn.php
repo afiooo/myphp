@@ -30,7 +30,7 @@ $response = curl_exec($curl);
 
 curl_close($curl);
 $url = (json_decode($response));
-echo $codes = $url->data->result->protocol[0]->transcode[0]->url;
 exit;
+echo $codes = $url->data->result->protocol[0]->transcode[0]->url;
 header('location:'.$codes);
 ?>
