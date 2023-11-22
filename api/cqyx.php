@@ -7,7 +7,7 @@ $type='1';
 $appId = "kdds-chongqingdemo";
 $url ='http://portal.centre.bo.cbnbn.cn/others/common/playUrlNoAuth?cityId=5A&playId='.$playId.'&relativeId='.$relativeId.'&type=1';
 $curl = curl_init();
-$timestamps = round(microtime(true) * 1000);
+$timestamps = number_format(microtime(true), 3, '', '');
 $sign =md5('aIErXY1rYjSpjQs7pq2Gp5P8k2W7P^Y@appId' . $appId . "cityId" . $cityId. "playId" . $playId . "relativeId" . $relativeId . "timestamps" . $timestamps . "type" . $type);
 curl_setopt_array($curl, array(
   CURLOPT_URL => $url,
