@@ -1,0 +1,227 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="重庆卫视高清" tvg-logo="https://live.fanmingming.com/tv/重庆卫视高清.png",重庆卫视高清
+https://myphp.afio.top/api/cqyx.php?id=chongqingHD
+#EXTINF:-1 tvg-name="重庆新闻高清" tvg-logo="https://live.fanmingming.com/tv/重庆新闻高清.png",重庆新闻高清
+https://myphp.afio.top/api/cqyx.php?id=CQTVNewsHD
+#EXTINF:-1 tvg-name="重庆影视高清" tvg-logo="https://live.fanmingming.com/tv/重庆影视高清.png",重庆影视高清
+https://myphp.afio.top/api/cqyx.php?id=cqyingshiHD
+#EXTINF:-1 tvg-name="重庆社会与法高清" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法高清.png",重庆社会与法高清
+https://myphp.afio.top/api/cqyx.php?id=CQTVTrendyHD
+#EXTINF:-1 tvg-name="重庆时尚生活高清" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活高清.png",重庆时尚生活高清
+https://myphp.afio.top/api/cqyx.php?id=cqssgwHD
+#EXTINF:-1 tvg-name="重庆文体娱乐高清" tvg-logo="https://live.fanmingming.com/tv/重庆文体娱乐高清.png",重庆文体娱乐高清
+https://myphp.afio.top/api/cqyx.php?id=cqwtylHD
+#EXTINF:-1 tvg-name="重庆新农村高清" tvg-logo="https://live.fanmingming.com/tv/重庆新农村高清.png",重庆新农村高清
+https://myphp.afio.top/api/cqyx.php?id=cqggncHD
+#EXTINF:-1 tvg-name="重庆少儿高清" tvg-logo="https://live.fanmingming.com/tv/重庆少儿高清.png",重庆少儿高清
+https://myphp.afio.top/api/cqyx.php?id=cqseHD
+#EXTINF:-1 tvg-name="重庆科教高清" tvg-logo="https://live.fanmingming.com/tv/重庆科教高清.png",重庆科教高清
+https://myphp.afio.top/api/cqyx.php?id=CQTVkejiaoHD
+#EXTINF:-1 tvg-name="爱看导视高清" tvg-logo="https://live.fanmingming.com/tv/爱看导视高清.png",爱看导视高清
+https://myphp.afio.top/api/cqyx.php?id=aikanHD
+#EXTINF:-1 tvg-name="重庆汽摩高清" tvg-logo="https://live.fanmingming.com/tv/重庆汽摩高清.png",重庆汽摩高清
+https://myphp.afio.top/api/cqyx.php?id=cqcarSD
+#EXTINF:-1 tvg-name="重庆移动高清" tvg-logo="https://live.fanmingming.com/tv/重庆移动高清.png",重庆移动高清
+https://myphp.afio.top/api/cqyx.php?id=mryyHD
+#EXTINF:-1 tvg-name="重广融媒" tvg-logo="https://live.fanmingming.com/tv/重广融媒.png",重广融媒
+https://myphp.afio.top/api/cqyx.php?id=cqrongmei
+#EXTINF:-1 tvg-name="CCTV1综合高清" tvg-logo="https://live.fanmingming.com/tv/CCTV1综合高清.png",CCTV1综合高清
+https://myphp.afio.top/api/cqyx.php?id=cctv1HD
+#EXTINF:-1 tvg-name="CCTV2财经高清" tvg-logo="https://live.fanmingming.com/tv/CCTV2财经高清.png",CCTV2财经高清
+https://myphp.afio.top/api/cqyx.php?id=cctv2HD
+#EXTINF:-1 tvg-name="CCTV3综艺高清" tvg-logo="https://live.fanmingming.com/tv/CCTV3综艺高清.png",CCTV3综艺高清
+https://myphp.afio.top/api/cqyx.php?id=cctv3HD
+#EXTINF:-1 tvg-name="CCTV4中文国际高清" tvg-logo="https://live.fanmingming.com/tv/CCTV4中文国际高清.png",CCTV4中文国际高清
+https://myphp.afio.top/api/cqyx.php?id=cctv4HD
+#EXTINF:-1 tvg-name="CCTV5体育高清" tvg-logo="https://live.fanmingming.com/tv/CCTV5体育高清.png",CCTV5体育高清
+https://myphp.afio.top/api/cqyx.php?id=cctv5HD
+#EXTINF:-1 tvg-name="CCTV6电影高清" tvg-logo="https://live.fanmingming.com/tv/CCTV6电影高清.png",CCTV6电影高清
+https://myphp.afio.top/api/cqyx.php?id=cctv6HD
+#EXTINF:-1 tvg-name="CCTV7国防军事高清" tvg-logo="https://live.fanmingming.com/tv/CCTV7国防军事高清.png",CCTV7国防军事高清
+https://myphp.afio.top/api/cqyx.php?id=cctv7HD
+#EXTINF:-1 tvg-name="CCTV8电视剧高清" tvg-logo="https://live.fanmingming.com/tv/CCTV8电视剧高清.png",CCTV8电视剧高清
+https://myphp.afio.top/api/cqyx.php?id=cctv8HD
+#EXTINF:-1 tvg-name="CCTV9纪录高清" tvg-logo="https://live.fanmingming.com/tv/CCTV9纪录高清.png",CCTV9纪录高清
+https://myphp.afio.top/api/cqyx.php?id=cctv9HD
+#EXTINF:-1 tvg-name="CCTV10科教高清" tvg-logo="https://live.fanmingming.com/tv/CCTV10科教高清.png",CCTV10科教高清
+https://myphp.afio.top/api/cqyx.php?id=cctv10HD
+#EXTINF:-1 tvg-name="CCTV11戏曲高清" tvg-logo="https://live.fanmingming.com/tv/CCTV11戏曲高清.png",CCTV11戏曲高清
+https://myphp.afio.top/api/cqyx.php?id=cctv11HD
+#EXTINF:-1 tvg-name="CCTV12社会与法高清" tvg-logo="https://live.fanmingming.com/tv/CCTV12社会与法高清.png",CCTV12社会与法高清
+https://myphp.afio.top/api/cqyx.php?id=cctv12HD
+#EXTINF:-1 tvg-name="CCTV13新闻高清" tvg-logo="https://live.fanmingming.com/tv/CCTV13新闻高清.png",CCTV13新闻高清
+https://myphp.afio.top/api/cqyx.php?id=CCTVNewsHD
+#EXTINF:-1 tvg-name="CCTV14少儿高清" tvg-logo="https://live.fanmingming.com/tv/CCTV14少儿高清.png",CCTV14少儿高清
+https://myphp.afio.top/api/cqyx.php?id=cctvseHD
+#EXTINF:-1 tvg-name="CCTV15音乐高清" tvg-logo="https://live.fanmingming.com/tv/CCTV15音乐高清.png",CCTV15音乐高清
+https://myphp.afio.top/api/cqyx.php?id=cctv15HD
+#EXTINF:-1 tvg-name="CCTV16奥林匹克高清" tvg-logo="https://live.fanmingming.com/tv/CCTV16奥林匹克高清.png",CCTV16奥林匹克高清
+https://myphp.afio.top/api/cqyx.php?id=cctv16HD
+#EXTINF:-1 tvg-name="CCTV17农业农村高清" tvg-logo="https://live.fanmingming.com/tv/CCTV17农业农村高清.png",CCTV17农业农村高清
+https://myphp.afio.top/api/cqyx.php?id=cctv17HD
+#EXTINF:-1 tvg-name="江苏卫视高清" tvg-logo="https://live.fanmingming.com/tv/江苏卫视高清.png",江苏卫视高清
+https://myphp.afio.top/api/cqyx.php?id=jiangsuHD
+#EXTINF:-1 tvg-name="北京卫视高清" tvg-logo="https://live.fanmingming.com/tv/北京卫视高清.png",北京卫视高清
+https://myphp.afio.top/api/cqyx.php?id=beijingHD
+#EXTINF:-1 tvg-name="浙江卫视高清" tvg-logo="https://live.fanmingming.com/tv/浙江卫视高清.png",浙江卫视高清
+https://myphp.afio.top/api/cqyx.php?id=zhejiangHD
+#EXTINF:-1 tvg-name="上海卫视高清" tvg-logo="https://live.fanmingming.com/tv/上海卫视高清.png",上海卫视高清
+https://myphp.afio.top/api/cqyx.php?id=shanghaiHD
+#EXTINF:-1 tvg-name="深圳卫视高清" tvg-logo="https://live.fanmingming.com/tv/深圳卫视高清.png",深圳卫视高清
+https://myphp.afio.top/api/cqyx.php?id=shenzhenHD
+#EXTINF:-1 tvg-name="辽宁卫视高清" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视高清.png",辽宁卫视高清
+https://myphp.afio.top/api/cqyx.php?id=liaoningHD
+#EXTINF:-1 tvg-name="天津卫视高清" tvg-logo="https://live.fanmingming.com/tv/天津卫视高清.png",天津卫视高清
+https://myphp.afio.top/api/cqyx.php?id=tianjinHD
+#EXTINF:-1 tvg-name="贵州卫视高清" tvg-logo="https://live.fanmingming.com/tv/贵州卫视高清.png",贵州卫视高清
+https://myphp.afio.top/api/cqyx.php?id=guizhouHD
+#EXTINF:-1 tvg-name="四川卫视高清" tvg-logo="https://live.fanmingming.com/tv/四川卫视高清.png",四川卫视高清
+https://myphp.afio.top/api/cqyx.php?id=sichuanHD
+#EXTINF:-1 tvg-name="云南卫视高清" tvg-logo="https://live.fanmingming.com/tv/云南卫视高清.png",云南卫视高清
+https://myphp.afio.top/api/cqyx.php?id=yunnanSD
+#EXTINF:-1 tvg-name="东南卫视高清" tvg-logo="https://live.fanmingming.com/tv/东南卫视高清.png",东南卫视高清
+https://myphp.afio.top/api/cqyx.php?id=dongnanHD
+#EXTINF:-1 tvg-name="黑龙江卫视高清" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视高清.png",黑龙江卫视高清
+https://myphp.afio.top/api/cqyx.php?id=heilongjiangHD
+#EXTINF:-1 tvg-name="安徽卫视高清" tvg-logo="https://live.fanmingming.com/tv/安徽卫视高清.png",安徽卫视高清
+https://myphp.afio.top/api/cqyx.php?id=anhuiSD
+#EXTINF:-1 tvg-name="河北卫视高清" tvg-logo="https://live.fanmingming.com/tv/河北卫视高清.png",河北卫视高清
+https://myphp.afio.top/api/cqyx.php?id=hebeiSD
+#EXTINF:-1 tvg-name="江西卫视高清" tvg-logo="https://live.fanmingming.com/tv/江西卫视高清.png",江西卫视高清
+https://myphp.afio.top/api/cqyx.php?id=jiangxiHD
+#EXTINF:-1 tvg-name="湖北卫视高清" tvg-logo="https://live.fanmingming.com/tv/湖北卫视高清.png",湖北卫视高清
+https://myphp.afio.top/api/cqyx.php?id=hubeiSD
+#EXTINF:-1 tvg-name="海南卫视高清" tvg-logo="https://live.fanmingming.com/tv/海南卫视高清.png",海南卫视高清
+https://myphp.afio.top/api/cqyx.php?id=hainanSD
+#EXTINF:-1 tvg-name="吉林卫视高清" tvg-logo="https://live.fanmingming.com/tv/吉林卫视高清.png",吉林卫视高清
+https://myphp.afio.top/api/cqyx.php?id=jilinHD
+#EXTINF:-1 tvg-name="广西卫视高清" tvg-logo="https://live.fanmingming.com/tv/广西卫视高清.png",广西卫视高清
+https://myphp.afio.top/api/cqyx.php?id=guangxiHD
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png",内蒙古卫视
+https://myphp.afio.top/api/cqyx.php?id=neimengkuSD
+#EXTINF:-1 tvg-name="湖南卫视高清" tvg-logo="https://live.fanmingming.com/tv/湖南卫视高清.png",湖南卫视高清
+https://myphp.afio.top/api/cqyx.php?id=hunanHD
+#EXTINF:-1 tvg-name="广东卫视高清" tvg-logo="https://live.fanmingming.com/tv/广东卫视高清.png",广东卫视高清
+https://myphp.afio.top/api/cqyx.php?id=guangdongHD
+#EXTINF:-1 tvg-name="河南卫视高清" tvg-logo="https://live.fanmingming.com/tv/河南卫视高清.png",河南卫视高清
+https://myphp.afio.top/api/cqyx.php?id=henanHD
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png",山西卫视
+https://myphp.afio.top/api/cqyx.php?id=shanxiSD
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png",兵团卫视
+https://myphp.afio.top/api/cqyx.php?id=bingtuanSD
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png",宁夏卫视
+https://myphp.afio.top/api/cqyx.php?id=ningxia
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/北京卡酷少儿.png",北京卡酷少儿
+https://myphp.afio.top/api/cqyx.php?id=bjkakuSD
+#EXTINF:-1 tvg-name="金鹰卡通高清" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通高清.png",金鹰卡通高清
+https://myphp.afio.top/api/cqyx.php?id=jinyingSD
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png",三沙卫视
+https://myphp.afio.top/api/cqyx.php?id=sanshaSD
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png",青海卫视
+https://myphp.afio.top/api/cqyx.php?id=qinghaiSD
+#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png",中国天气
+https://myphp.afio.top/api/cqyx.php?id=tianqiSD
+#EXTINF:-1 tvg-name="北京纪实科教高清" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教高清.png",北京纪实科教高清
+https://myphp.afio.top/api/cqyx.php?id=bjayjsSD
+#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.com/tv/山东教育卫视.png",山东教育卫视
+https://myphp.afio.top/api/cqyx.php?id=sdjiaoyuSD
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png",新疆卫视
+https://myphp.afio.top/api/cqyx.php?id=xinjiangSD
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png",西藏卫视
+https://myphp.afio.top/api/cqyx.php?id=xizangSD
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png",CGTN
+https://myphp.afio.top/api/cqyx.php?id=cgtnSD
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png",CETV-1
+https://myphp.afio.top/api/cqyx.php?id=cetv-1SD
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png",CETV-4
+https://myphp.afio.top/api/cqyx.php?id=cetv-4SD
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png",生活时尚
+https://myphp.afio.top/api/cqyx.php?id=shenghuo
+#EXTINF:-1 tvg-name="百姓健康" tvg-logo="https://live.fanmingming.com/tv/百姓健康.png",百姓健康
+https://myphp.afio.top/api/cqyx.php?id=jiankangSD
+#EXTINF:-1 tvg-name="快乐垂钓高清" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓高清.png",快乐垂钓高清
+https://myphp.afio.top/api/cqyx.php?id=klcdHD
+#EXTINF:-1 tvg-name="第一剧场高清" tvg-logo="https://live.fanmingming.com/tv/第一剧场高清.png",第一剧场高清
+https://myphp.afio.top/api/cqyx.php?id=diyijuchangHD
+#EXTINF:-1 tvg-name="都市剧场高清" tvg-logo="https://live.fanmingming.com/tv/都市剧场高清.png",都市剧场高清
+https://myphp.afio.top/api/cqyx.php?id=dsjcHD
+#EXTINF:-1 tvg-name="动漫秀场高清" tvg-logo="https://live.fanmingming.com/tv/动漫秀场高清.png",动漫秀场高清
+https://myphp.afio.top/api/cqyx.php?id=dmxcHD
+#EXTINF:-1 tvg-name="魅力足球高清" tvg-logo="https://live.fanmingming.com/tv/魅力足球高清.png",魅力足球高清
+https://myphp.afio.top/api/cqyx.php?id=mlzqHD
+#EXTINF:-1 tvg-name="风云剧场高清" tvg-logo="https://live.fanmingming.com/tv/风云剧场高清.png",风云剧场高清
+https://myphp.afio.top/api/cqyx.php?id=fyjcHD
+#EXTINF:-1 tvg-name="求索纪录高清" tvg-logo="https://live.fanmingming.com/tv/求索纪录高清.png",求索纪录高清
+https://myphp.afio.top/api/cqyx.php?id=qsjlHD
+#EXTINF:-1 tvg-name="兵器科技高清" tvg-logo="https://live.fanmingming.com/tv/兵器科技高清.png",兵器科技高清
+https://myphp.afio.top/api/cqyx.php?id=bqkjHD
+#EXTINF:-1 tvg-name="游戏风云高清" tvg-logo="https://live.fanmingming.com/tv/游戏风云高清.png",游戏风云高清
+https://myphp.afio.top/api/cqyx.php?id=yxfyHD
+#EXTINF:-1 tvg-name="怀旧剧场高清" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场高清.png",怀旧剧场高清
+https://myphp.afio.top/api/cqyx.php?id=hjjcHD
+#EXTINF:-1 tvg-name="风云音乐高清" tvg-logo="https://live.fanmingming.com/tv/风云音乐高清.png",风云音乐高清
+https://myphp.afio.top/api/cqyx.php?id=fyyyHD
+#EXTINF:-1 tvg-name="央视台球高清" tvg-logo="https://live.fanmingming.com/tv/央视台球高清.png",央视台球高清
+https://myphp.afio.top/api/cqyx.php?id=ystqHD
+#EXTINF:-1 tvg-name="风云足球高清" tvg-logo="https://live.fanmingming.com/tv/风云足球高清.png",风云足球高清
+https://myphp.afio.top/api/cqyx.php?id=fyzqHD
+#EXTINF:-1 tvg-name="央视文化精品高清" tvg-logo="https://live.fanmingming.com/tv/央视文化精品高清.png",央视文化精品高清
+https://myphp.afio.top/api/cqyx.php?id=yswhHD
+#EXTINF:-1 tvg-name="高尔夫网球高清" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球高清.png",高尔夫网球高清
+https://myphp.afio.top/api/cqyx.php?id=golfHD
+#EXTINF:-1 tvg-name="早期教育高清" tvg-logo="https://live.fanmingming.com/tv/早期教育高清.png",早期教育高清
+https://myphp.afio.top/api/cqyx.php?id=zaojiaoHD
+#EXTINF:-1 tvg-name="东方财*高清" tvg-logo="https://live.fanmingming.com/tv/东方财*高清.png",东方财*高清
+https://myphp.afio.top/api/cqyx.php?id=dfcj
+#EXTINF:-1 tvg-name="证券服务" tvg-logo="https://live.fanmingming.com/tv/证券服务.png",证券服务
+https://myphp.afio.top/api/cqyx.php?id=jiazheng
+#EXTINF:-1 tvg-name="书画" tvg-logo="https://live.fanmingming.com/tv/书画.png",书画
+https://myphp.afio.top/api/cqyx.php?id=shuhua
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://live.fanmingming.com/tv/新动漫.png",新动漫
+https://myphp.afio.top/api/cqyx.php?id=dongman
+#EXTINF:-1 tvg-name="国学频道" tvg-logo="https://live.fanmingming.com/tv/国学频道.png",国学频道
+https://myphp.afio.top/api/cqyx.php?id=guoxue
+#EXTINF:-1 tvg-name="优优宝贝" tvg-logo="https://live.fanmingming.com/tv/优优宝贝.png",优优宝贝
+https://myphp.afio.top/api/cqyx.php?id=youxi
+#EXTINF:-1 tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png",中华特产
+https://myphp.afio.top/api/cqyx.php?id=techan
+#EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://live.fanmingming.com/tv/环球奇观.png",环球奇观
+https://myphp.afio.top/api/cqyx.php?id=car
+#EXTINF:-1 tvg-name="生态环境" tvg-logo="https://live.fanmingming.com/tv/生态环境.png",生态环境
+https://myphp.afio.top/api/cqyx.php?id=shengtai
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://live.fanmingming.com/tv/四海钓鱼.png",四海钓鱼
+https://myphp.afio.top/api/cqyx.php?id=diaoyu
+#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://live.fanmingming.com/tv/发现之旅.png",发现之旅
+https://myphp.afio.top/api/cqyx.php?id=faxian
+#EXTINF:-1 tvg-name="车迷" tvg-logo="https://live.fanmingming.com/tv/车迷.png",车迷
+https://myphp.afio.top/api/cqyx.php?id=doxtv
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png",法治天地
+https://myphp.afio.top/api/cqyx.php?id=fazhi
+#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png",金色学堂
+https://myphp.afio.top/api/cqyx.php?id=jinse
+#EXTINF:-1 tvg-name="收藏天下" tvg-logo="https://live.fanmingming.com/tv/收藏天下.png",收藏天下
+https://myphp.afio.top/api/cqyx.php?id=soucang
+#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png",财富天下
+https://myphp.afio.top/api/cqyx.php?id=caifu
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png",女性时尚
+https://myphp.afio.top/api/cqyx.php?id=nvxing
+#EXTINF:-1 tvg-name="中学生" tvg-logo="https://live.fanmingming.com/tv/中学生.png",中学生
+https://myphp.afio.top/api/cqyx.php?id=qicai
+#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://live.fanmingming.com/tv/天元围棋.png",天元围棋
+https://myphp.afio.top/api/cqyx.php?id=weiqi
+#EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.com/tv/先锋乒羽.png",先锋乒羽
+https://myphp.afio.top/api/cqyx.php?id=xianfeng
+#EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://live.fanmingming.com/tv/环球旅游.png",环球旅游
+https://myphp.afio.top/api/cqyx.php?id=huanqiulvyou
+#EXTINF:-1 tvg-name="老故事" tvg-logo="https://live.fanmingming.com/tv/老故事.png",老故事
+https://myphp.afio.top/api/cqyx.php?id=gushi
+#EXTINF:-1 tvg-name="摄影频道" tvg-logo="https://live.fanmingming.com/tv/摄影频道.png",摄影频道
+https://myphp.afio.top/api/cqyx.php?id=sheying
+#EXTINF:-1 tvg-name="靓妆" tvg-logo="https://live.fanmingming.com/tv/靓妆.png",靓妆
+https://myphp.afio.top/api/cqyx.php?id=liang
+#EXTINF:-1 tvg-name="CCTV4K超高清" tvg-logo="https://live.fanmingming.com/tv/CCTV4K超高清.png",CCTV4K超高清
+https://myphp.afio.top/api/cqyx.php?id=CCTV4K
+#EXTINF:-1 tvg-name="欢笑剧场4K超高清" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场4K超高清.png",欢笑剧场4K超高清
+https://myphp.afio.top/api/cqyx.php?id=hxjc_4K
+#EXTINF:-1 tvg-name="CCTV16奥林匹克4K超高清" tvg-logo="https://live.fanmingming.com/tv/CCTV16奥林匹克4K超高清.png",CCTV16奥林匹克4K超高清
+https://myphp.afio.top/api/cqyx.php?id=CCTV16_4K
